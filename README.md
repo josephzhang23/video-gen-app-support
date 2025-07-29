@@ -1,1 +1,1 @@
-# video-gen-app-support
+# Seedance 1.0 Pro
